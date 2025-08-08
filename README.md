@@ -8,14 +8,15 @@ The DL4NLP course focuses on applying deep learning techniques to various NLP ta
 
 ## Course Topics
 
-* Word Embeddings (e.g., Word2Vec, GloVe)
+* Different tokenization approaches
+* Word Embeddings (Word2Vec, GloVe)
 * Feedforward Neural Networks
-* Recurrent Neural Networks (RNNs), LSTM, GRU
+* Recurrent Neural Networks (RNNs), LSTM
 * Convolutional Neural Networks (CNNs) for text
 * Attention Mechanisms and Transformers
 * Sequence-to-Sequence Models
-* Pre-trained Language Models (e.g., BERT, GPT)
-* Text Classification, Named Entity Recognition, Machine Translation
+* Pre-trained Language Models 
+* Text Classification, and Sentiment Analysis
 
 
 ## Getting Started
