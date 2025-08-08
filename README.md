@@ -50,7 +50,7 @@ The DL4NLP course focuses on applying deep learning techniques to various NLP ta
 
 ## Usage
 
-Navigate to the `notebooks/` directory to explore various NLP models and their implementations. Each notebook is self-contained and includes explanations and code examples.
+Navigate to the exercise directory to explore various NLP models and their implementations. Each exercise folder contained a notebook that is self-contained and includes explanations and code examples.
 
 
 ## License
